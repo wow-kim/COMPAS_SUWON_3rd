@@ -27,14 +27,14 @@
 ### 참고
 학습공간 > 공간분석 활용의 COMPAS 게시물들을 참조하여 도움을 얻을 수 있습니다.
 ## Tool
-`Python(3.6.9)` : COMPAS에서 제공하는 Jupyter Notebook 환경에서 작업함
-`QGIS(3.18.0)` : 데이터 전처리에 사용함
+- `Python(3.6.9)` : COMPAS에서 제공하는 Jupyter Notebook 환경에서 작업함
+- `QGIS(3.18.0)` : 데이터 전처리에 사용함
 
 ### 주요 라이브러리
-`sklearn(0.23.2)` : **클러스터링**, **Scaling** 등 사용
-`Pulp(2.3)` : **MCLP 알고리즘** 구현에 사용된 선형계획법 라이브러리
-`Pydeck(0.5.0)` : **지도 시각화**
-`Shapely(1.7.1)` : **geometry data 전처리/가공**
+- `sklearn(0.23.2)` : **클러스터링**, **Scaling** 등 사용
+- `Pulp(2.3)` : **MCLP 알고리즘** 구현에 사용된 선형계획법 라이브러리
+- `Pydeck(0.5.0)` : **지도 시각화**
+- `Shapely(1.7.1)` : **geometry data 전처리/가공**
 
 ### Result
 ![분석결과_수타버스](https://user-images.githubusercontent.com/63916774/116225045-52b84480-a78c-11eb-9da4-477a78ca5010.png)
