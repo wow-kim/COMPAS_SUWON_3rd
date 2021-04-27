@@ -31,4 +31,5 @@
 ## 분석결과
 ![분석결과_수타버스](https://user-images.githubusercontent.com/63916774/116225045-52b84480-a78c-11eb-9da4-477a78ca5010.png)
 
-with [ohdotorium](https://github.com/keepproceeding)
+with [ohdotorium](https://github.com/keepproceeding)![image](https://user-images.githubusercontent.com/63916774/116225240-90b56880-a78c-11eb-9549-5f0d29225190.png)
+
